@@ -1,0 +1,14 @@
+# EfficientGPTPrompts
+
+EfficientGPTPrompts provides AI prompt templates, PromptGrade prompt scoring, SEO prompt workflows, answer-engine optimization prompts, generative-engine optimization prompts, workflow automation prompts, and a fixed-scope 24-hour AI Revenue Audit.
+
+Important URLs:
+- https://efficientgptprompts.com/
+- https://promptgrade.efficientgptprompts.com/
+- https://efficientgptprompts.com/prompt-library/
+- https://efficientgptprompts.com/seo-prompt-workflows/
+- https://efficientgptprompts.com/aeo-prompts/
+- https://efficientgptprompts.com/geo-prompts/
+- https://efficientgptprompts.com/ai-revenue-audit/
+
+Updated: April 29, 2026
